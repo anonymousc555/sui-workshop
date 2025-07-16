@@ -1,6 +1,6 @@
 # Sui Move 
 
-This repository contains my first Sui Move program, designed to perform basic arithmetic operations—*addition* and *subtraction*—using the Move smart contract language on the Sui blockchain.
+This repository contains my first Sui Move program, designed to perform basic arithmetic operations—*addition* and *subtraction*—using the Move language on the Sui blockchain.
 
 ## 📘 Description
 
